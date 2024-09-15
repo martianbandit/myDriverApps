@@ -1,5 +1,12 @@
 {
-    "scripts": { 
-      "start": "expo start"
-    }
-  }
+    "scripts": {
+        "start": "expo start"
+    },
+    "name": "mydriverapps",
+    "version": "1.0.0",
+    "description": "applications mobiles pour chauffeurs et gestions de flottes",
+    "main": "App.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
